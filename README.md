@@ -1,4 +1,5 @@
 # Brandon's Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Summary
+
+This repo contains all of the notes that Brandon will take during LHL.
